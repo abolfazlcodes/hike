@@ -1,0 +1,11 @@
+{
+  "name": "shopandwin",
+  "version": "1.0.0",
+  "description": "This the Shop&Win backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abolfazl Jamshidi",
+  "license": "ISC"
+}
